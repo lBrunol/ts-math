@@ -26,16 +26,6 @@ yarn # se for do time Yarn
 
 WHATACODE!
 
-## Realized steps in refator
-
-1 - Unused functions removed
-2 - Standardization of the way functions were exported
-3 - Improved function and parameter names
-4 - Mathematical formula of some functions were corrected
-5 - Reorganization of tests
-6 - Added validations to check if parameters are numbers in some functions
-7 - Some tests were corrected
-8 - Inclusion of failure cases and invalid parameters in the tests of each function
 ## Errors, errors...
 
 ![Run Test](/_repo/run_test.gif)
@@ -72,6 +62,25 @@ You can also check in your browser a report saved at `./coverage/index.html`:
 - [ ] Clean the code!
 - [ ] Make tests go green!
 - [ ] Open a PR!
+
+## Realized steps in refator
+
+1. Unused functions removed
+1. Standardization of the way functions were exported
+1. Improved function and parameter names
+1. Mathematical formula of some functions were corrected
+1. Reorganization of tests
+1. Added validations to check if parameters are numbers in some functions
+1. Some tests were corrected
+1. Inclusion of failure cases and invalid parameters in the tests of each function
+
+## Passed tests
+
+![image](https://user-images.githubusercontent.com/11487729/159738533-61b89f53-aeca-4fdb-b8fc-df91b982623e.png)
+
+## Coverage
+
+![image](https://user-images.githubusercontent.com/11487729/159738652-d77550e3-c8f0-49ee-a3e9-1748b1b2307f.png)
 
 ## The book is on the screen
 
