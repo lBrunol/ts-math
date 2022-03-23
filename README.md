@@ -26,6 +26,16 @@ yarn # se for do time Yarn
 
 WHATACODE!
 
+## Realized steps in refator
+
+1 - Unused functions removed
+2 - Standardization of the way functions were exported
+3 - Improved function and parameter names
+4 - Mathematical formula of some functions were corrected
+5 - Reorganization of tests
+6 - Added validations to check if parameters are numbers in some functions
+7 - Some tests were corrected
+8 - Inclusion of failure cases and invalid parameters in the tests of each function
 ## Errors, errors...
 
 ![Run Test](/_repo/run_test.gif)
@@ -76,7 +86,6 @@ Inglês faz parte da síntaxe de nossas linguagens. É sempre bom exercitar a li
 </div>
 
 Desafio do quarto episódio sobre _Clean Code_ do [**Show me the code**](https://lp.rocketseat.com.br/inscricao/showmethecode), o único reality show educativo no universo da programação, que vai revelar os elementos de um ambiente de alto nível, para que você possa usar isso na sua carreira. Criado pela [RocketSeat](https://www.rocketseat.com.br/)!
-
 
 ## MIT License
 
